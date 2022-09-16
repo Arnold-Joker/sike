@@ -1,0 +1,47 @@
+*{
+				background-color: black;
+				color: #fff;
+}
+.box{
+				border: inset #ff55b3;
+				border-radius: 15px;
+				align-items: center;
+				text-align: center;
+}
+#yes{
+				color: #ff00c7;
+				font-size: 20px;
+}
+
+#no{
+				color: #ff000a;
+				font-size: 15px;
+}
+
+.btn button{
+				margin: 30px;
+				font-size: 40px;
+				color: red;
+				border: solid #5597ff;
+				border-radius: 20px;
+}
+
+/*button*/
+#btn1{
+				opacity: 0;
+}
+#btn2{
+				opacity: 0;
+}
+#btn3{
+				opacity: 0;
+}
+#btn4{
+				opacity: 0;
+}
+#btn5{
+				opacity: 0;
+}
+#btn6{
+				opacity: 0;
+}
